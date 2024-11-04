@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hello there, I'm Luna! 👋
 
-<!--
-**lunaandrade/lunaandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim 🙋‍♀️
+Sou estudante de **Informática** no **Instituto Federal do Ceará** e atualmente estou no **4º semestre**. Como designer gráfico, tenho um olhar criativo e sou apaixonada por transformar ideias em visuais impactantes. Além de criar, adoro jogar vôlei e passar tempo com meus amigos de quatro patas.
+
 
 Here are some ideas to get you started:
 
