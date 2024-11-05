@@ -20,7 +20,9 @@ I'm **Luna Andrade**, a Computer Science student at the Federal Institute of Cea
 - [My Design Portfolio](link-do-portfólio) 
 - [Volleyball Training Tracker](link-do-repositório)
 - [Animal Blog: Love for Pets](link-do-repositório)
+  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lunaandrade&layout=compact&theme=tokyonight)
 ## 🌐 Connect with Me
 📫 **Let’s network!**
 
