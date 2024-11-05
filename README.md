@@ -1,24 +1,20 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
+# ★ Welcome to My GitHub Profile! ★
 
 ## 👩‍🎨 About Me
 I'm **Luna Andrade**, a Computer Science student at the Federal Institute of Ceará, passionate about **Graphic Design** and the union of technology and creativity. I am a volleyball athlete, always seeking new challenges that help me grow, both in projects for my academic training and on the court 🏐💻.
 
-### 🏐 Hobbies
-- **Volleyball Player**: I love teamwork and staying active!
-- **Animal Lover**: Proud mom of cats and dogs 🐾
+
 
 ## 💻 Skills
-- **Graphic Design**: 
-  - Adobe Photoshop
-  - Illustrator
-  - Figma
-- **Web Development**: 
+- **Programming Languages**: 
   - HTML
-  - CSS
-  - JavaScript (beginner)
+  - Python
+  - Java 
 - **Tools**: 
   - Canva
-  - Inkscape
+  - Virtual Studio Code
+  - Eclipse
+  - Virtual Box
 
 ## 📂 Featured Projects
 - [My Design Portfolio](link-do-portfólio) 
