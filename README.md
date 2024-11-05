@@ -24,11 +24,23 @@ Hello! I'm **Luna Andrade**, a passionate Graphic Designer and a student of the 
 
 ## 📂 Featured Projects
 - [My Design Portfolio](link-do-portfólio)
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
+
+ 
 - [Volleyball Training Tracker](link-do-repositório)
 - [Animal Blog: Love for Pets](link-do-repositório)
 
 ## 🌐 Connect with Me
 📫 **Let’s network!**
+
+<a href="https://www.instagram.com/lunnaandradde/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+</a>
+
 - [Twitter](link-do-twitter)
 - [LinkedIn](link-do-linkedin)
 - [Portfolio](link-do-portfólio)
