@@ -15,7 +15,7 @@ I'm **Luna Andrade**, a Computer Science student at the Federal Institute of Cea
   - Virtual Box
 
 ### 📂 My Current Projects
-- [Object-Oriented Programming](link-do-portfólio) 
+- [Object-Oriented Programming](https://github.com/lunaandrade/CTI-P4-POO-20242-LISTA1/tree/main) 
 - [Web Development](link-do-repositório)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lunaandrade&layout=compact&theme=tokyonight)
