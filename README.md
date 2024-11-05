@@ -1,9 +1,7 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
 ## 👩‍🎨 About Me
-Hello!! I'm **Luna Andrade**, a passionate about **Graphic Designer** and student of the technical IT course at the **Federal Institute of Ceara**. I'm currently in **4th semester** and I'm excited to combine my love of design with technology.
-Hello! I'm **Luna Andrade**, a passionate Graphic Designer and a student of the Technical IT course at the Federal Institute of Ceara. I'm currently in my 4th semester, and I'm excited to combine my love for design with technology.
-
+I'm **Luna Andrade**, a Computer Science student at the Federal Institute of Ceará, passionate about **Graphic Design** and the union of technology and creativity. I am a volleyball athlete, always seeking new challenges that help me grow, both in projects for my academic training and on the court 🏐💻.
 
 ### 🏐 Hobbies
 - **Volleyball Player**: I love teamwork and staying active!
