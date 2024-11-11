@@ -4,7 +4,7 @@
 I'm **Luna Andrade**, a Computer Science student at the Federal Institute of Ceará, passionate about **Graphic Design** and the union of technology and creativity. I am a volleyball athlete, always seeking new challenges that help me grow, both in projects for my academic training and on the court 🏐⚙️.
 
 ## 💻 Technologies
-- **Programming Languages**: 
+- **Languages**: 
   - HTML
   - Python
   - Java 
