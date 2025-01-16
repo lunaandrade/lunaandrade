@@ -5,14 +5,15 @@ I'm **Luna Andrade**, a Computer Science student at the Federal Institute of Cea
 
 ## 💻 Technologies
 - **Languages**: 
-  - HTML
+  - HTML, CSS and JavaScript
   - Python
   - Java 
 - **Tools**: 
-  - Canva
+  - Figma, Canva
   - Virtual Studio Code
   - Eclipse
   - Virtual Box
+  - Netbeans
 
 ### 📂 My Current Projects
 - [Object-Oriented Programming](https://github.com/lunaandrade/CTI-P4-POO-20242-LISTA1/tree/main) 
